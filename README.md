@@ -1,5 +1,5 @@
 # blockfacebook
-How to block Facebook services
+How to block Facebook services.
 
 This repository provides some simple tools that help you to block facebook services from your network or an individual machine.
 
