@@ -13,7 +13,7 @@ The shell scripts do as their names suggest. They depend on `whois`, `grep`, `se
 
 `wget https://github.com/Ra-Na/blockfacebook/raw/main/fbip4.txt` downloads the text files from this repo. Then
 
-`while read line;do sudo ufw deny from $line to any; done < fbip4.txt` to add the IP addresses with the aid of the Universal FireWall (ufw).
+`while read line;do sudo ufw deny from $line to any; done < fbip4.txt` to block the IP addresses with the aid of the Universal FireWall (ufw). Repeat for the IPv6-list.
 
 4. Could some user please provide the equivalent of 3. for the power shell in Windows (if possible)??
 
