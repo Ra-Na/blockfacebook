@@ -9,11 +9,13 @@ The shell scripts do as their names suggest. They depend on `whois`, `grep`, `se
 
 2. `create_blacklist_builder_for_mikrotik_router.sh` creates two rsc files that can be imported on MikroTik routers by `/import buildblacklist4.rsc` to create the address list, which can then be used to filter these servers. 
 
-3. To block the facebook servers on a linux machine (that acts as a router) do this in your bash:
+3. To block the Facebook servers on a Linux machine do this in your bash:
+
 `wget https://github.com/Ra-Na/blockfacebook/raw/main/fbip4.txt` downloads the text files from this repo. Then
+
 `while read line;do sudo ufw deny from $line to any; done < fbip4.txt` to add the IP addresses with the aid of the Universal FireWall (ufw).
 
-4. Could some user please provide the equivalent of 3 for the power shell in windows??
+4. Could some user please provide the equivalent of 3. for the power shell in Windows (if it is possible)??
 
 Happy blocking!
 
