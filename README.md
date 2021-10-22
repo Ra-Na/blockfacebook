@@ -5,7 +5,7 @@ This repository collects tools that help to block facebook services or any other
 
 The shell scripts do as their names suggest. They depend on `whois`, `grep`, `sed` and `awk` and should be executed in a bash-compatible shell.
 
-1. `getallfacebookips.sh` outputs two text files (IP4 and IP6) that list of all Facebook servers. Here one can insert the AS-number of another company (maybe Palantir, Cellebrite, Baidu...) in the `whois` command. The AS numbers can be lokked up [here](http://www.bgplookingglass.com/list-of-autonomous-system-numbers). For convenience, the output of these scripts is included in this repo specifically for Facebook. The IP lists are checked and if necessary updated hourly. 
+1. `getallfacebookips.sh` outputs two text files (IP4 and IP6) that list of all Facebook servers. Here one can insert the AS-number of another company (maybe Palantir, Cellebrite, Baidu...) in the `whois` command. The AS numbers can be looked up [here](http://www.bgplookingglass.com/list-of-autonomous-system-numbers). For convenience, the output of these scripts is included in this repo specifically for Facebook. The IP lists are checked and if necessary updated hourly. 
 
 2. From the output of 1., `create_blacklist_builder_for_mikrotik_router.sh` creates two rsc files that can be imported on MikroTik routers by `/import buildblacklist4.rsc` to create the address list, which can then be used to filter these servers. These files are also up to date in this repo.
 
