@@ -361,4 +361,7 @@ add list=blacklist6 address=2a03:2880:f171::/48
 add list=blacklist6 address=2a03:2880:f07e::/48
 add list=blacklist6 address=2a03:2880:f172::/48
 add list=blacklist6 address=2a03:2880:f272::/48
+add list=blacklist6 address=2a03:2880:f080::/48
+add list=blacklist6 address=2a03:2880:f173::/48
+add list=blacklist6 address=2a03:2880:f273::/48
 add list=blacklist6 address=2a03:83e0::/32
