@@ -33,7 +33,6 @@ add list=blacklist4 address=31.13.77.0/24
 add list=blacklist4 address=31.13.96.0/19
 add list=blacklist4 address=31.13.66.0/24
 add list=blacklist4 address=173.252.96.0/19
-add list=blacklist4 address=69.63.178.0/24
 add list=blacklist4 address=31.13.78.0/24
 add list=blacklist4 address=31.13.79.0/24
 add list=blacklist4 address=31.13.80.0/24
