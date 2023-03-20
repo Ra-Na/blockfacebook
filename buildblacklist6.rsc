@@ -403,5 +403,13 @@ add list=blacklist6 address=2a03:2887:ff59::/48
 add list=blacklist6 address=2a03:2887:ff15::/48
 add list=blacklist6 address=2a03:2887:ff2c::/48
 add list=blacklist6 address=2a03:2887:ff0d::/48
+add list=blacklist6 address=2a03:2887:ff0f::/48
+add list=blacklist6 address=2a03:2887:ff31::/48
+add list=blacklist6 address=2a03:2887:ff28::/48
+add list=blacklist6 address=2a03:2887:ff11::/48
+add list=blacklist6 address=2a03:2887:ff47::/48
+add list=blacklist6 address=2a03:2887:ff32::/48
+add list=blacklist6 address=2a03:2887:ff10::/48
+add list=blacklist6 address=2a03:2887:ff46::/48
 add list=blacklist6 address=2a03:83e0::/32
 add list=blacklist6 address=2a10:f781:10:cee0::/64
