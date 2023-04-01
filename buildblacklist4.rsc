@@ -211,4 +211,5 @@ add list=blacklist4 address=157.240.254.0/24
 add list=blacklist4 address=69.63.178.0/24
 add list=blacklist4 address=157.240.202.0/24
 add list=blacklist4 address=31.13.90.0/24
+add list=blacklist4 address=163.70.128.0/24
 add list=blacklist4 address=185.89.216.0/22
