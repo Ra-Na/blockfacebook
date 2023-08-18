@@ -226,4 +226,6 @@ add list=blacklist4 address=163.70.139.0/24
 add list=blacklist4 address=163.70.140.0/24
 add list=blacklist4 address=163.70.141.0/24
 add list=blacklist4 address=163.70.142.0/24
+add list=blacklist4 address=163.70.144.0/24
+add list=blacklist4 address=163.70.143.0/24
 add list=blacklist4 address=185.89.216.0/22
