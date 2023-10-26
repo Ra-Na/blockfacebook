@@ -503,5 +503,7 @@ add list=blacklist6 address=2a03:2880:f321::/48
 add list=blacklist6 address=2a03:2880:f305::/48
 add list=blacklist6 address=2a03:2880:f31b::/48
 add list=blacklist6 address=2a03:2880:f31a::/48
+add list=blacklist6 address=2a03:2880:f214::/48
+add list=blacklist6 address=2a03:2880:f114::/48
 add list=blacklist6 address=2a03:83e0::/32
 add list=blacklist6 address=2a10:f781:10:cee0::/64
