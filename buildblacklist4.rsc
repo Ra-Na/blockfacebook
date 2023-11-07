@@ -292,3 +292,6 @@ add list=blacklist4 address=57.144.84.0/23
 add list=blacklist4 address=57.144.12.0/23
 add list=blacklist4 address=57.144.74.0/23
 add list=blacklist4 address=102.132.104.0/24
+add list=blacklist4 address=163.70.159.0/24
+add list=blacklist4 address=163.70.158.0/24
+add list=blacklist4 address=57.144.100.0/23
