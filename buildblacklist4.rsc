@@ -36,6 +36,8 @@ add list=blacklist4 address=31.13.94.0/24
 add list=blacklist4 address=31.13.95.0/24
 add list=blacklist4 address=31.13.96.0/19
 add list=blacklist4 address=45.64.40.0/22
+add list=blacklist4 address=57.141.4.0/24
+add list=blacklist4 address=57.141.5.0/24
 add list=blacklist4 address=57.144.0.0/14
 add list=blacklist4 address=57.144.0.0/23
 add list=blacklist4 address=57.144.2.0/23
