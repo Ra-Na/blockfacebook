@@ -358,4 +358,5 @@ add list=blacklist4 address=185.89.216.0/22
 add list=blacklist4 address=185.89.218.0/23
 add list=blacklist4 address=185.89.218.0/24
 add list=blacklist4 address=185.89.219.0/24
+add list=blacklist4 address=189.247.71.0/24
 add list=blacklist4 address=204.15.20.0/22

@@ -3,6 +3,7 @@ add list=blacklist6 address=2401:db00::/32
 add list=blacklist6 address=2620:0:1c00::/40
 add list=blacklist6 address=2620:0:1cfa::/48
 add list=blacklist6 address=2620:0:1cff::/48
+add list=blacklist6 address=2806:1090:cbff::/48
 add list=blacklist6 address=2806:10a0:cbff::/48
 add list=blacklist6 address=2a03:2880::/32
 add list=blacklist6 address=2a03:2880::/36
