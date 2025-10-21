@@ -50,6 +50,8 @@ add list=blacklist4 address=57.141.10.0/24
 add list=blacklist4 address=57.141.11.0/24
 add list=blacklist4 address=57.141.12.0/24
 add list=blacklist4 address=57.141.13.0/24
+add list=blacklist4 address=57.141.14.0/24
+add list=blacklist4 address=57.141.15.0/24
 add list=blacklist4 address=57.144.0.0/14
 add list=blacklist4 address=57.144.0.0/23
 add list=blacklist4 address=57.144.2.0/23
