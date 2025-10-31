@@ -543,12 +543,16 @@ add list=blacklist6 address=2a03:2880:f80d::/48
 add list=blacklist6 address=2a03:2880:f80e::/48
 add list=blacklist6 address=2a03:2880:f80f::/48
 add list=blacklist6 address=2a03:2880:ff00::/47
+add list=blacklist6 address=2a03:2880:ff00::/48
+add list=blacklist6 address=2a03:2880:ff01::/48
 add list=blacklist6 address=2a03:2880:ff08::/48
 add list=blacklist6 address=2a03:2880:ff09::/48
 add list=blacklist6 address=2a03:2880:ff0a::/48
 add list=blacklist6 address=2a03:2880:ff0b::/48
 add list=blacklist6 address=2a03:2880:ff0c::/48
 add list=blacklist6 address=2a03:2880:ff10::/47
+add list=blacklist6 address=2a03:2880:ff10::/48
+add list=blacklist6 address=2a03:2880:ff11::/48
 add list=blacklist6 address=2a03:2880:fffe::/48
 add list=blacklist6 address=2a03:2880:ffff::/48
 add list=blacklist6 address=2a03:2881::/32
