@@ -208,9 +208,12 @@ add list=blacklist4 address=102.132.104.0/24
 add list=blacklist4 address=103.4.96.0/22
 add list=blacklist4 address=129.134.0.0/16
 add list=blacklist4 address=129.134.0.0/17
+add list=blacklist4 address=129.134.24.0/23
 add list=blacklist4 address=129.134.25.0/24
+add list=blacklist4 address=129.134.26.0/23
 add list=blacklist4 address=129.134.26.0/24
 add list=blacklist4 address=129.134.27.0/24
+add list=blacklist4 address=129.134.28.0/23
 add list=blacklist4 address=129.134.28.0/24
 add list=blacklist4 address=129.134.29.0/24
 add list=blacklist4 address=129.134.30.0/23

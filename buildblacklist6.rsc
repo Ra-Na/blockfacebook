@@ -549,10 +549,13 @@ add list=blacklist6 address=2a03:2880:f813::/48
 add list=blacklist6 address=2a03:2880:ff00::/47
 add list=blacklist6 address=2a03:2880:ff00::/48
 add list=blacklist6 address=2a03:2880:ff01::/48
+add list=blacklist6 address=2a03:2880:ff08::/47
 add list=blacklist6 address=2a03:2880:ff08::/48
 add list=blacklist6 address=2a03:2880:ff09::/48
+add list=blacklist6 address=2a03:2880:ff0a::/47
 add list=blacklist6 address=2a03:2880:ff0a::/48
 add list=blacklist6 address=2a03:2880:ff0b::/48
+add list=blacklist6 address=2a03:2880:ff0c::/47
 add list=blacklist6 address=2a03:2880:ff0c::/48
 add list=blacklist6 address=2a03:2880:ff10::/47
 add list=blacklist6 address=2a03:2880:ff10::/48
