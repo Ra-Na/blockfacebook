@@ -196,6 +196,7 @@ add list=blacklist4 address=57.145.10.0/23
 add list=blacklist4 address=57.145.12.0/23
 add list=blacklist4 address=57.145.14.0/23
 add list=blacklist4 address=57.145.18.0/23
+add list=blacklist4 address=57.145.20.0/23
 add list=blacklist4 address=66.220.144.0/20
 add list=blacklist4 address=66.220.144.0/21
 add list=blacklist4 address=66.220.152.0/21
