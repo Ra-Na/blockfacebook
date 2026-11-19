@@ -213,6 +213,7 @@ add list=blacklist4 address=57.145.22.0/23
 add list=blacklist4 address=57.145.24.0/23
 add list=blacklist4 address=57.145.26.0/23
 add list=blacklist4 address=57.145.28.0/23
+add list=blacklist4 address=57.145.30.0/23
 add list=blacklist4 address=66.220.144.0/20
 add list=blacklist4 address=66.220.144.0/21
 add list=blacklist4 address=66.220.152.0/21
